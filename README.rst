@@ -10,10 +10,10 @@ Para cumplir con los requerimientos mínimos de instalación en Debian Wheezy, e
 
   aptitude install gcc g++ make tar unzip bzip2 libssl-dev libxml2-dev zlib1g-dev libjpeg62-dev libreadline6-dev readline-common wv xpdf-utils python2.7-dev libxslt1-dev
 
-Descargar codigo fuente
+Descargar código fuente
 =======================
 
-Para descargar el codigo fuente, ejecute el siguiente comando: ::
+Para descargar el código fuente, ejecute el siguiente comando: ::
 
   $ git clone https://github.com/Covantec/buildout.plone4.git
 
